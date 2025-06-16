@@ -1,4 +1,4 @@
-package koreait.maven.dto;
+package koreait.maven.dto.req;
 
 import lombok.Getter;
 import lombok.Setter;
